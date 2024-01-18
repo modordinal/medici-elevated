@@ -20,4 +20,3 @@ Files sizes are 12 - 17 KB
 I did my best to balance file and image size with the current fees
 
 HAVE FUN❤️❤️❤️
-.
