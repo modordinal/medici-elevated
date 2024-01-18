@@ -7,13 +7,13 @@ As someone who is non-techincal this is my attempt at creating a DMINT
 
 PROCEED WITH CAUTION
 
-My hope is this was done properly.
+My hope is this was done properly
 
 I MAKE ZERO GUARANTEES
 
 
 
-The project contains 9 Medici Elevated art pieces.
+The project contains 9 Medici Elevated art pieces
 
 Files sizes are 12 - 17 KB
 
